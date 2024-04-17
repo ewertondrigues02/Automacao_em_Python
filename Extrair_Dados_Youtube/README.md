@@ -1,4 +1,4 @@
-**Relatório sobre o código de extração de vídeos do YouTube**
+# **Relatório sobre o código de extração de vídeos do YouTube**
 
 **Introdução:**
 O código fornecido é um conjunto de funções em Python para extrair informações sobre vídeos do YouTube usando a API do YouTube. Ele busca canais com base em uma palavra-chave fornecida, extrai vídeos desses canais dentro de um intervalo de datas especificado e salva os dados em um arquivo CSV.
